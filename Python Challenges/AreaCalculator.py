@@ -1,5 +1,7 @@
 import math
 
+#asknfaipfpawfaw
+
 def area_of_tetrahedron(edge):
     return math.pow(int(edge),2) * math.sqrt(3)
 
